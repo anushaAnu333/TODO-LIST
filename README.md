@@ -35,7 +35,7 @@
 
 
 ```
-git clone https://github.com/rs230498/todos
+git clone https://github.com/anushaAnu333/todos
 ```
 
 <h3>Install</h3>
